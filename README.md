@@ -5,7 +5,7 @@ A simple beginner Python program that calculates the factorial of the fixed valu
 The repository contains:
 
 factorial.py — calculates the factorial of 5.
-#3 How It Works
+# How It Works
 The variable fact starts at 1.
 
 A for loop runs from 1 through 5 and repeatedly multiplies the current value of fact.
